@@ -3,4 +3,3 @@ CMakeLists.txt
 /build/
 /CMakeFiles/
 /cmake-build-debug
-main.cpp
